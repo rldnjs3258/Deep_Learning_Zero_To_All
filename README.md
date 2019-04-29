@@ -1,2 +1,4 @@
 # Deep_Learning_Zero_To_All
-Deep Learning Zero To All
+
+
+This repository includes theories, codes, studies from Deep Learning Zero To All lecture
